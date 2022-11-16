@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	width:100vw;
+}
+.container{
+	display:flex;
+	width:90%;
+	margin:auto;
+	margin-top:50px;
+	margin-left:30px;
+	position:relative;
+	}
+.frame{
+	border:none;
+
+}
+.item{
+margin-left:20px;
+margin-top:50px;
+}
+.item a{
+	text-decoration:none;
+	color:black;
+	display:flex;
+}
+.text{
+	margin-left:10px;
+}
+.text small{
+	color:#9b9b9b
+}
+.image img{
+	border-radius:10px;
+	width:200px;
+}
